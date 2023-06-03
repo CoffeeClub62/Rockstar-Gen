@@ -6,3 +6,5 @@ Olá! Eu sou Yuzuk, aqui está um projeto de um gerador de contas de Rockstar pa
 ⚠️ **Não altere o cooldown, pode atrapalhar no processo de gerar as contas.**
 
 ⚠️ **Tenha o NodeJs instalado em seu computador.**
+
+⚠️ **Tenha o Edge Browser instalado em seu computador.**
